@@ -5,7 +5,7 @@ public class Main {
         int mili = price/bonus;
         System.out.println(mili);
 
-
+       int mili = 125
 
 
 
