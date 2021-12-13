@@ -1,12 +1,9 @@
 public class Main {
-    public static void main(String[] args){
-        int price = 2500;
+    public static void main(String[] args) {
+        int price = 150;
         int bonus = 20;
-        int mili = price/bonus;
+        int mili = price / bonus;
         System.out.println(mili);
-
-       int mili = 125
-
 
 
     }
